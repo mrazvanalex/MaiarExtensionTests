@@ -8,3 +8,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
     ```SystemConstants.SYSTEM_ABI_PATH = path_1.default.join(".", "../../../abi");```
 
 - run `ng serve`
+- go to `localhost:4200/test` and you will see the error as the maiar extension tries to sign a message.
